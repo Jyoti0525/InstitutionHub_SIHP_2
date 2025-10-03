@@ -11,8 +11,8 @@ Visit: **http://localhost:5175** (after running `npm run dev`)
 ### Demo Credentials
 
 **Institution Portal:**
-- Email: `admin@abctech.edu.in`
-- Password: `demo123`
+- Email: `tat@tat.ac.in`
+- Password: `tat123`
 
 **Admin Portal:**
 - Email: `admin@ugc.gov.in`
