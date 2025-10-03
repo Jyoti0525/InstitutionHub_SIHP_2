@@ -1,0 +1,32 @@
+[
+  {
+    "id": "OD001",
+    "name": "Siksha 'O' Anusandhan (SOA University)",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "district": "Khordha",
+    "type": "Deemed University",
+    "affiliation": "UGC, AICTE",
+    "established": 1997,
+    "currentDSI": 92.5,
+    "compositeScore": 94.2,
+    "submissionStatus": "approved",
+    "lastUpdated": "2025-09-15T10:30:00Z",
+    "deadline": "2025-11-30T23:59:59Z"
+  },
+  {
+    "id": "OD002",
+    "name": "Kalinga Institute of Industrial Technology (KIIT)",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "district": "Khordha",
+    "type": "Deemed University",
+    "affiliation": "UGC, AICTE",
+    "established": 1992,
+    "currentDSI": 94.8,
+    "compositeScore": 96.1,
+    "submissionStatus": "approved",
+    "lastUpdated": "2025-09-20T14:15:00Z",
+    "deadline": "2025-12-15T23:59:59Z"
+  }
+]

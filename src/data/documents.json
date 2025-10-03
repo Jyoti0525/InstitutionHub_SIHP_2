@@ -1,0 +1,211 @@
+[
+  {
+    "id": "DOC001",
+    "institutionId": "INST001",
+    "name": "Graduation_Records_2023.pdf",
+    "type": "Enrollment & Graduation Data",
+    "category": "Student Outcomes & Employability",
+    "status": "verified",
+    "uploadDate": "2025-09-10",
+    "verificationDate": "2025-09-12",
+    "size": "2.4 MB",
+    "url": "/uploads/DOC001.pdf",
+    "dsiContribution": 7.8,
+    "completeness": 0.98,
+    "verificationScore": 1.0,
+    "verificationSource": "Registrar Verified",
+    "aiInsights": [
+      "Document contains complete enrollment data for 3 years",
+      "Graduation rates show improving trend",
+      "All required fields are present and verified"
+    ]
+  },
+  {
+    "id": "DOC002",
+    "institutionId": "INST001",
+    "name": "Placement_Report_2024.pdf",
+    "type": "Placement Records",
+    "category": "Student Outcomes & Employability",
+    "status": "verified",
+    "uploadDate": "2025-09-10",
+    "verificationDate": "2025-09-13",
+    "size": "5.1 MB",
+    "url": "/uploads/DOC002.pdf",
+    "dsiContribution": 9.7,
+    "completeness": 0.97,
+    "verificationScore": 1.0,
+    "verificationSource": "Training & Placement Cell",
+    "aiInsights": [
+      "87% placement rate detected",
+      "Top recruiters list verified",
+      "Salary details cross-referenced with industry standards"
+    ]
+  },
+  {
+    "id": "DOC003",
+    "institutionId": "INST001",
+    "name": "Faculty_List_2024.xlsx",
+    "type": "Faculty Details",
+    "category": "Teaching-Learning & Resources",
+    "status": "verified",
+    "uploadDate": "2025-09-11",
+    "verificationDate": "2025-09-14",
+    "size": "1.8 MB",
+    "url": "/uploads/DOC003.xlsx",
+    "dsiContribution": 11.5,
+    "completeness": 0.96,
+    "verificationScore": 0.95,
+    "verificationSource": "HR Department",
+    "aiInsights": [
+      "Faculty-student ratio 1:15 meets norms",
+      "82% faculty with PhD qualification",
+      "Minor discrepancy in experience data for 2 faculty members"
+    ]
+  },
+  {
+    "id": "DOC004",
+    "institutionId": "INST001",
+    "name": "Research_Publications_2023.pdf",
+    "type": "Research Publications",
+    "category": "Research & Innovation",
+    "status": "pending",
+    "uploadDate": "2025-09-12",
+    "size": "8.7 MB",
+    "url": "/uploads/DOC004.pdf",
+    "dsiContribution": 12.2,
+    "completeness": 0.85,
+    "verificationScore": 0.7,
+    "verificationSource": "Pending Cross-reference",
+    "aiInsights": [
+      "152 publications claimed",
+      "Cross-verification with Scopus/WoS pending",
+      "Some citations need additional validation"
+    ]
+  },
+  {
+    "id": "DOC005",
+    "institutionId": "INST001",
+    "name": "Infrastructure_Inventory_2024.pdf",
+    "type": "Infrastructure Details",
+    "category": "Infrastructure & Learning Resources",
+    "status": "verified",
+    "uploadDate": "2025-09-08",
+    "verificationDate": "2025-09-11",
+    "size": "6.3 MB",
+    "url": "/uploads/DOC005.pdf",
+    "dsiContribution": 7.6,
+    "completeness": 1.0,
+    "verificationScore": 1.0,
+    "verificationSource": "Infrastructure Committee",
+    "aiInsights": [
+      "All infrastructure details comprehensively documented",
+      "Photo evidence provided for major facilities",
+      "Meets all infrastructure norms"
+    ]
+  },
+  {
+    "id": "DOC006",
+    "institutionId": "INST001",
+    "name": "Financial_Statement_2023.pdf",
+    "type": "Financial Statements",
+    "category": "Governance & Financial Health",
+    "status": "verified",
+    "uploadDate": "2025-09-09",
+    "verificationDate": "2025-09-12",
+    "size": "4.2 MB",
+    "url": "/uploads/DOC006.pdf",
+    "dsiContribution": 6.8,
+    "completeness": 0.99,
+    "verificationScore": 1.0,
+    "verificationSource": "Chartered Accountant Certified",
+    "aiInsights": [
+      "Audited financial statement with clean report",
+      "Financial health indicators positive",
+      "All regulatory disclosures present"
+    ]
+  },
+  {
+    "id": "DOC007",
+    "institutionId": "INST001",
+    "name": "NAAC_Certificate.pdf",
+    "type": "Accreditation Certificates",
+    "category": "Accreditation & Compliance",
+    "status": "verified",
+    "uploadDate": "2025-09-07",
+    "verificationDate": "2025-09-09",
+    "size": "1.2 MB",
+    "url": "/uploads/DOC007.pdf",
+    "dsiContribution": 4.9,
+    "completeness": 1.0,
+    "verificationScore": 1.0,
+    "verificationSource": "NAAC Verification Portal",
+    "aiInsights": [
+      "Valid NAAC A+ accreditation",
+      "Certificate verified from NAAC portal",
+      "Valid until 2027"
+    ]
+  },
+  {
+    "id": "DOC008",
+    "institutionId": "INST001",
+    "name": "Student_Feedback_Analysis_2023.pdf",
+    "type": "Student Feedback Reports",
+    "category": "Teaching-Learning & Resources",
+    "status": "flagged",
+    "uploadDate": "2025-09-13",
+    "size": "2.1 MB",
+    "url": "/uploads/DOC008.pdf",
+    "dsiContribution": 2.4,
+    "completeness": 0.75,
+    "verificationScore": 0.6,
+    "verificationSource": "Quality Assurance Cell",
+    "aiInsights": [
+      "Feedback collection methodology unclear",
+      "Response rate appears low (45%)",
+      "Action taken report incomplete"
+    ],
+    "rejectionReason": "Incomplete action taken report and low response rate"
+  },
+  {
+    "id": "DOC009",
+    "institutionId": "INST001",
+    "name": "Audit_Report_2023.pdf",
+    "type": "Audit Reports",
+    "category": "Governance & Financial Health",
+    "status": "verified",
+    "uploadDate": "2025-09-14",
+    "verificationDate": "2025-09-15",
+    "size": "3.8 MB",
+    "url": "/uploads/DOC009.pdf",
+    "dsiContribution": 3.9,
+    "completeness": 0.98,
+    "verificationScore": 1.0,
+    "verificationSource": "Internal Audit Committee",
+    "aiInsights": [
+      "Comprehensive internal and external audit reports",
+      "Minor observations adequately addressed",
+      "Compliance score: 96%"
+    ]
+  },
+  {
+    "id": "DOC010",
+    "institutionId": "INST001",
+    "name": "Governance_Policy_Documents.pdf",
+    "type": "Governance Documents",
+    "category": "Governance & Financial Health",
+    "status": "verified",
+    "uploadDate": "2025-09-06",
+    "verificationDate": "2025-09-08",
+    "size": "7.5 MB",
+    "url": "/uploads/DOC010.pdf",
+    "dsiContribution": 2.9,
+    "completeness": 1.0,
+    "verificationScore": 0.95,
+    "verificationSource": "Governance Board",
+    "aiInsights": [
+      "Comprehensive governance framework documented",
+      "All statutory committees functional",
+      "Policies aligned with UGC/AICTE norms"
+    ]
+  }
+]

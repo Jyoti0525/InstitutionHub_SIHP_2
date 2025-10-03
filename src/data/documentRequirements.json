@@ -1,0 +1,162 @@
+[
+  {
+    "type": "Enrollment & Graduation Data",
+    "category": "Student Outcomes & Employability",
+    "weight": 8.0,
+    "mandatory": true,
+    "description": "Student enrollment and graduation statistics for last 3 years",
+    "acceptedFormats": [".pdf", ".xlsx", ".csv"],
+    "maxSize": "5 MB",
+    "sampleUrl": "/samples/enrollment-data.pdf"
+  },
+  {
+    "type": "Placement Records",
+    "category": "Student Outcomes & Employability",
+    "weight": 10.0,
+    "mandatory": true,
+    "description": "Comprehensive placement records with company names and salary details",
+    "acceptedFormats": [".pdf", ".xlsx"],
+    "maxSize": "10 MB",
+    "sampleUrl": "/samples/placement-records.pdf"
+  },
+  {
+    "type": "Faculty Details",
+    "category": "Teaching-Learning & Resources",
+    "weight": 12.0,
+    "mandatory": true,
+    "description": "Complete faculty list with qualifications, experience, and publications",
+    "acceptedFormats": [".pdf", ".xlsx"],
+    "maxSize": "5 MB",
+    "sampleUrl": "/samples/faculty-details.pdf"
+  },
+  {
+    "type": "Research Publications",
+    "category": "Research & Innovation",
+    "weight": 15.0,
+    "mandatory": true,
+    "description": "Research papers published in peer-reviewed journals (last 3 years)",
+    "acceptedFormats": [".pdf", ".xlsx"],
+    "maxSize": "10 MB",
+    "sampleUrl": "/samples/research-publications.pdf"
+  },
+  {
+    "type": "Patents & IPR",
+    "category": "Research & Innovation",
+    "weight": 5.0,
+    "mandatory": false,
+    "description": "Patents filed/granted and intellectual property rights documentation",
+    "acceptedFormats": [".pdf"],
+    "maxSize": "5 MB",
+    "sampleUrl": "/samples/patents.pdf"
+  },
+  {
+    "type": "Infrastructure Details",
+    "category": "Infrastructure & Learning Resources",
+    "weight": 8.0,
+    "mandatory": true,
+    "description": "Infrastructure inventory including classrooms, labs, library, hostels",
+    "acceptedFormats": [".pdf", ".xlsx"],
+    "maxSize": "10 MB",
+    "sampleUrl": "/samples/infrastructure.pdf"
+  },
+  {
+    "type": "Financial Statements",
+    "category": "Governance & Financial Health",
+    "weight": 7.0,
+    "mandatory": true,
+    "description": "Audited financial statements for last 2 fiscal years",
+    "acceptedFormats": [".pdf"],
+    "maxSize": "10 MB",
+    "sampleUrl": "/samples/financial-statements.pdf"
+  },
+  {
+    "type": "Accreditation Certificates",
+    "category": "Accreditation & Compliance",
+    "weight": 5.0,
+    "mandatory": true,
+    "description": "NAAC/NBA/other accreditation certificates and assessment reports",
+    "acceptedFormats": [".pdf"],
+    "maxSize": "5 MB",
+    "sampleUrl": "/samples/accreditation.pdf"
+  },
+  {
+    "type": "Student Feedback Reports",
+    "category": "Teaching-Learning & Resources",
+    "weight": 3.0,
+    "mandatory": true,
+    "description": "Student feedback analysis and action taken reports",
+    "acceptedFormats": [".pdf", ".xlsx"],
+    "maxSize": "5 MB",
+    "sampleUrl": "/samples/student-feedback.pdf"
+  },
+  {
+    "type": "Audit Reports",
+    "category": "Governance & Financial Health",
+    "weight": 4.0,
+    "mandatory": true,
+    "description": "Internal and external audit reports",
+    "acceptedFormats": [".pdf"],
+    "maxSize": "5 MB",
+    "sampleUrl": "/samples/audit-reports.pdf"
+  },
+  {
+    "type": "Scheme Participation Proof",
+    "category": "Student Support & Progression",
+    "weight": 5.0,
+    "mandatory": false,
+    "description": "Proof of participation in government schemes (PMSS, NSP, etc.)",
+    "acceptedFormats": [".pdf"],
+    "maxSize": "5 MB",
+    "sampleUrl": "/samples/scheme-participation.pdf"
+  },
+  {
+    "type": "Ranking Certificates",
+    "category": "Accreditation & Compliance",
+    "weight": 3.0,
+    "mandatory": false,
+    "description": "NIRF, other ranking certifications and supporting documents",
+    "acceptedFormats": [".pdf"],
+    "maxSize": "3 MB",
+    "sampleUrl": "/samples/ranking-certificates.pdf"
+  },
+  {
+    "type": "Governance Documents",
+    "category": "Governance & Financial Health",
+    "weight": 3.0,
+    "mandatory": true,
+    "description": "Organogram, policies, committee minutes, code of conduct",
+    "acceptedFormats": [".pdf"],
+    "maxSize": "10 MB",
+    "sampleUrl": "/samples/governance-docs.pdf"
+  },
+  {
+    "type": "Industry Collaboration",
+    "category": "Industry Collaboration & Internships",
+    "weight": 4.0,
+    "mandatory": false,
+    "description": "MoUs with industries, collaboration details, joint projects",
+    "acceptedFormats": [".pdf"],
+    "maxSize": "5 MB",
+    "sampleUrl": "/samples/industry-collaboration.pdf"
+  },
+  {
+    "type": "Digital Infrastructure",
+    "category": "Digital Presence & Innovation",
+    "weight": 2.0,
+    "mandatory": false,
+    "description": "Details of LMS, online courses, digital library, IT infrastructure",
+    "acceptedFormats": [".pdf", ".xlsx"],
+    "maxSize": "5 MB",
+    "sampleUrl": "/samples/digital-infrastructure.pdf"
+  },
+  {
+    "type": "Sustainability Report",
+    "category": "Environmental Sustainability",
+    "weight": 1.0,
+    "mandatory": false,
+    "description": "Green audit, waste management, energy conservation initiatives",
+    "acceptedFormats": [".pdf"],
+    "maxSize": "5 MB",
+    "sampleUrl": "/samples/sustainability-report.pdf"
+  }
+]

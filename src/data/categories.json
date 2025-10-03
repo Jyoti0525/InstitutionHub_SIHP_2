@@ -1,0 +1,101 @@
+[
+  {
+    "id": "CAT01",
+    "name": "Student Outcomes & Employability",
+    "weight": 20,
+    "score": 82.5,
+    "submetricIds": ["SUB01", "SUB02", "SUB03", "SUB04", "SUB05"],
+    "description": "Graduate employment rates, placements, higher education pursuits",
+    "icon": "GraduationCap"
+  },
+  {
+    "id": "CAT02",
+    "name": "Teaching-Learning & Resources",
+    "weight": 15,
+    "score": 75.0,
+    "submetricIds": ["SUB06", "SUB07", "SUB08", "SUB09", "SUB10"],
+    "description": "Faculty qualifications, student-teacher ratio, classroom facilities",
+    "icon": "BookOpen"
+  },
+  {
+    "id": "CAT03",
+    "name": "Research & Innovation",
+    "weight": 20,
+    "score": 68.5,
+    "submetricIds": ["SUB11", "SUB12", "SUB13", "SUB14", "SUB15"],
+    "description": "Research publications, patents, funded projects, collaborations",
+    "icon": "FlaskConical"
+  },
+  {
+    "id": "CAT04",
+    "name": "Outreach & Inclusivity",
+    "weight": 10,
+    "score": 71.0,
+    "submetricIds": ["SUB16", "SUB17", "SUB18", "SUB19"],
+    "description": "Regional diversity, gender parity, economically weaker sections support",
+    "icon": "Users"
+  },
+  {
+    "id": "CAT05",
+    "name": "Infrastructure & Learning Resources",
+    "weight": 10,
+    "score": 85.5,
+    "submetricIds": ["SUB20", "SUB21", "SUB22", "SUB23"],
+    "description": "Physical facilities, libraries, laboratories, digital infrastructure",
+    "icon": "Building"
+  },
+  {
+    "id": "CAT06",
+    "name": "Governance & Financial Health",
+    "weight": 8,
+    "score": 78.0,
+    "submetricIds": ["SUB24", "SUB25", "SUB26", "SUB27"],
+    "description": "Transparent governance, financial stability, audit compliance",
+    "icon": "Shield"
+  },
+  {
+    "id": "CAT07",
+    "name": "Student Support & Progression",
+    "weight": 7,
+    "score": 80.5,
+    "submetricIds": ["SUB28", "SUB29", "SUB30"],
+    "description": "Scholarships, counseling services, career guidance, mentorship",
+    "icon": "HandHeart"
+  },
+  {
+    "id": "CAT08",
+    "name": "Accreditation & Compliance",
+    "weight": 5,
+    "score": 92.0,
+    "submetricIds": ["SUB31", "SUB32", "SUB33"],
+    "description": "NAAC, NBA accreditation status, regulatory compliance",
+    "icon": "Award"
+  },
+  {
+    "id": "CAT09",
+    "name": "Industry Collaboration & Internships",
+    "weight": 3,
+    "score": 65.5,
+    "submetricIds": ["SUB34", "SUB35"],
+    "description": "Industry partnerships, internship programs, skill development",
+    "icon": "Briefcase"
+  },
+  {
+    "id": "CAT10",
+    "name": "Digital Presence & Innovation",
+    "weight": 1,
+    "score": 58.0,
+    "submetricIds": ["SUB36"],
+    "description": "Online courses, digital learning platforms, tech adoption",
+    "icon": "Monitor"
+  },
+  {
+    "id": "CAT11",
+    "name": "Environmental Sustainability",
+    "weight": 1,
+    "score": 72.0,
+    "submetricIds": ["SUB37"],
+    "description": "Green initiatives, waste management, energy efficiency",
+    "icon": "Leaf"
+  }
+]
